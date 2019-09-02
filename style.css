@@ -1,0 +1,43 @@
+body {
+	height:100%;
+	text-decoration: none;
+	color:black;
+	font-family: Lucida,Helvetica,sans-serif;
+	font-variant: small-caps;
+	font-weight: 500;
+	background-color: #96A8C8;
+}
+
+a {
+	text-decoration:inherit;
+	color:inherit;
+}
+
+#title {
+	font-weight: 800;
+	display:block;
+	font-size: 21px;
+	margin: 10px auto;
+	text-align: center;
+}
+
+img {
+	margin: 0 auto;
+	display:block;
+}
+
+.box {
+	background: white;
+	border: solid #071419 1.5px;
+	border-radius: 12px;
+	padding: 12px;
+	width: 780px;
+	margin: 0 auto;
+}
+
+.disclaimer {
+	position:fixed;
+	left:8px;
+	bottom:8px;
+	font-size: 0.85em;
+}

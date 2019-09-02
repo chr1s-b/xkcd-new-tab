@@ -1,0 +1,18 @@
+{
+
+  "description": "Displays the latest xkcd comic in your new tab.",
+  "manifest_version": 2,
+  "name": "xkcd New Tab",
+  "version": "0.1.0",
+  "homepage_url": "https://github.com/chr1s-b/xkcd-new-tab",
+  "icons": {
+    "48": "icons/icon_48.png"
+  },
+  "chrome_url_overrides" : {
+    "newtab" : "index.html"
+  },
+  "permissions": [
+    "*://xkcd.com/*info.0.json",
+    "webRequest"
+  ]
+}
