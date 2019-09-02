@@ -1,1 +1,1 @@
-"# xkcd New Tab" 
+# xkcd New Tab
