@@ -26,6 +26,13 @@ img {
 	display:block;
 }
 
+#alt {
+	display:block;
+	font-size: 14px;
+	margin: 10px auto;
+	text-align: center;
+}
+
 .box {
 	background: white;
 	border: solid #071419 1.5px;
