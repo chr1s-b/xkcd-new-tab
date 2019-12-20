@@ -42,9 +42,20 @@ img {
 	margin: 0 auto;
 }
 
-.disclaimer {
+footer {
 	position:fixed;
-	left:8px;
-	bottom:8px;
+	bottom: 8px;
 	font-size: 0.85em;
+	width: 100%;
+}
+
+.disclaimer {
+	display: inline-block;
+	left: 8px;
+}
+
+#num {
+	position: fixed;
+	display: inline-block;
+	right: 8px;
 }
